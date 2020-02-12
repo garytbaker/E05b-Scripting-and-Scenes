@@ -1,5 +1,6 @@
 # E05b-Scripting-and-Scenes
-
+I finished this assignment and I have put the instructions in quotes.
+"
 To continue to prepare you to turn in the space shooter project, we will experiment a little with more scripting, some procedural generation, and switching scenes in GDScript.
 
 As usual, Fork and Clone this repository. Pay attention to where (on the file system) it is being saved.
@@ -137,4 +138,4 @@ As usual, Fork and Clone this repository. Pay attention to where (on the file sy
  ```
 
 If you have score and lives labels that update, and if you get a end-game screen if your lives get to zero, you have completed the exercise. Save the Scenes, edit your LICENSE and README, commit everything to Github, and turn in the URL of your repository on Canvas.
- 
+" 
